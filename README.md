@@ -1,1 +1,1 @@
-# ParkingLotManagementSystem
+# ParkingSlotManagementSystem
