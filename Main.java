@@ -12,4 +12,4 @@ public class Main {
         slot.freeSlot();
         System.out.println("Vehicle " + car.getLicensePlate() + " has exited. Fee: " + ticket.calculateParkingFee());
     }
-}
+   }
